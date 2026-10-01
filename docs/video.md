@@ -86,7 +86,8 @@
 * [StreamVaults](https://streamvaults.ru/) or [ReelStream](https://rreelstream.live/) - Movies / TV / Anime / [Telegram](https://t.me/streamvaultscrew)
 * [Nxsha](https://web.nxsha.app/) - Movies / TV / Anime / [Telegram](https://telegram.me/+8_u943HkSAY5ODA1)
 * [Vegeta TV](http://vegetatv.duckdns.org/) - Movies / TV / Anime
-
+* [Voobin AI Movies](https://www.voobin.com/) - AI Movies / TV / Anime / Invest
+* 
 ***
 
 ## ▷ P-Stream Forks
